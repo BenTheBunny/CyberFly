@@ -1,6 +1,5 @@
 import os
 from pypdf import PdfReader
-import tkinter as tk
 import streamlit as st
 import pandas as pd
 import numpy as np
