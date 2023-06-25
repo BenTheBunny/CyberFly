@@ -1,0 +1,4 @@
+pypdf
+streamlit
+pandas
+numpy
